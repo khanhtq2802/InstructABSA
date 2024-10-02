@@ -1,3 +1,5 @@
+# This repo is folked from kevinscaria/InstructABSA
+
 # InstructABSA: Instruction learning for Aspect Based Sentiment Classification [NAACL - 2024]
 
 ## 💥 New Features Coming
